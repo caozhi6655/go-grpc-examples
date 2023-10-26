@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
+	"go-grpc-examples/unary/greet/greetpb"
 	"log"
 
-	"github.com/itsksaurabh/udemy/grpc/unary/greet/greetpb"
 	"google.golang.org/grpc"
 )
 

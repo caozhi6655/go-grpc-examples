@@ -2,10 +2,10 @@ package main
 
 import (
 	"context"
+	"go-grpc-examples/unary/greet/greetpb"
 	"log"
 	"net"
 
-	"github.com/itsksaurabh/udemy/grpc/unary/greet/greetpb"
 	"google.golang.org/grpc"
 )
 
